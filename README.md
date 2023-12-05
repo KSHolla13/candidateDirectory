@@ -1,5 +1,4 @@
-# candidateDirectory
-# CRUD operations
+# candidateDirectory (CRUD operations)
 
 cloning the repository :
 git clone "url"
